@@ -21,3 +21,4 @@ The winning candidate was Diana DeGette, who received 272,892 votes.  Her percen
 
 #Election Audit Summary
 This analysis is an efficient way to compile, sort and count a large amount of data.  When used in the election analysis we have coded the script to iterate throught the rows of data to compile a total count for each selection we describe.  In this instance the selections were the candidates and the counties.  We then provided simple percentages of the totals by breaking them down by each of the selections. The code could also be refactored to be used on other elections.  Instead of counties we can sort by township, city or even state elections.  We could also refactor the code to calcuclate the number of votes each candidate received in different counties within the same state.  There are many advantages to having a script that can iterate through a large data set.  
+ 
